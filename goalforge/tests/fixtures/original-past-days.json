@@ -1,0 +1,706 @@
+[
+ {
+  "id": "2026-08-23-baseline",
+  "date": "2026-08-23",
+  "type": "baseline",
+  "blockId": "baseline",
+  "patternNumber": null,
+  "resourceIds": [
+   "lc-two-sum",
+   "lc-contains-duplicate"
+  ]
+ },
+ {
+  "id": "2026-08-24-p1",
+  "date": "2026-08-24",
+  "type": "study",
+  "blockId": "pattern-1",
+  "patternNumber": 1,
+  "resourceIds": [
+   "lc-contains-duplicate",
+   "lc-valid-anagram"
+  ]
+ },
+ {
+  "id": "2026-08-25-p1",
+  "date": "2026-08-25",
+  "type": "study",
+  "blockId": "pattern-1",
+  "patternNumber": 1,
+  "resourceIds": [
+   "lc-two-sum",
+   "lc-group-anagrams"
+  ]
+ },
+ {
+  "id": "2026-08-26-p1",
+  "date": "2026-08-26",
+  "type": "study",
+  "blockId": "pattern-1",
+  "patternNumber": 1,
+  "resourceIds": [
+   "lc-product-of-array-except-self",
+   "lc-top-k-frequent-elements"
+  ]
+ },
+ {
+  "id": "2026-08-27-p1",
+  "date": "2026-08-27",
+  "type": "study",
+  "blockId": "pattern-1",
+  "patternNumber": 1,
+  "resourceIds": [
+   "lc-encode-and-decode-strings",
+   "lc-valid-sudoku"
+  ]
+ },
+ {
+  "id": "2026-08-28-p1",
+  "date": "2026-08-28",
+  "type": "study",
+  "blockId": "pattern-1",
+  "patternNumber": 1,
+  "resourceIds": [
+   "lc-longest-consecutive-sequence",
+   "lc-plus-one"
+  ]
+ },
+ {
+  "id": "2026-08-29-p1",
+  "date": "2026-08-29",
+  "type": "study",
+  "blockId": "pattern-1",
+  "patternNumber": 1,
+  "resourceIds": [
+   "lc-single-number",
+   "lc-missing-number"
+  ]
+ },
+ {
+  "id": "2026-08-30-p1",
+  "date": "2026-08-30",
+  "type": "study",
+  "blockId": "pattern-1",
+  "patternNumber": 1,
+  "resourceIds": [
+   "lc-two-sum",
+   "lc-product-of-array-except-self"
+  ]
+ },
+ {
+  "id": "2026-08-31-p2",
+  "date": "2026-08-31",
+  "type": "study",
+  "blockId": "pattern-2",
+  "patternNumber": 2,
+  "resourceIds": [
+   "lc-valid-palindrome",
+   "lc-happy-number"
+  ]
+ },
+ {
+  "id": "2026-09-01-p2",
+  "date": "2026-09-01",
+  "type": "study",
+  "blockId": "pattern-2",
+  "patternNumber": 2,
+  "resourceIds": [
+   "lc-two-sum-ii-input-array-is-sorted",
+   "lc-reverse-bits"
+  ]
+ },
+ {
+  "id": "2026-09-02-p2",
+  "date": "2026-09-02",
+  "type": "study",
+  "blockId": "pattern-2",
+  "patternNumber": 2,
+  "resourceIds": [
+   "lc-3sum",
+   "lc-spiral-matrix"
+  ]
+ },
+ {
+  "id": "2026-09-03-p2",
+  "date": "2026-09-03",
+  "type": "study",
+  "blockId": "pattern-2",
+  "patternNumber": 2,
+  "resourceIds": [
+   "lc-container-with-most-water",
+   "lc-rotate-image"
+  ]
+ },
+ {
+  "id": "2026-09-04-p2",
+  "date": "2026-09-04",
+  "type": "study",
+  "blockId": "pattern-2",
+  "patternNumber": 2,
+  "resourceIds": [
+   "lc-set-matrix-zeroes",
+   "lc-detect-squares"
+  ]
+ },
+ {
+  "id": "2026-09-05-p2",
+  "date": "2026-09-05",
+  "type": "study",
+  "blockId": "pattern-2",
+  "patternNumber": 2,
+  "resourceIds": [
+   "lc-reverse-integer",
+   "lc-3sum"
+  ]
+ },
+ {
+  "id": "2026-09-06-p2",
+  "date": "2026-09-06",
+  "type": "study",
+  "blockId": "pattern-2",
+  "patternNumber": 2,
+  "resourceIds": [
+   "lc-trapping-rain-water",
+   "lc-container-with-most-water"
+  ]
+ },
+ {
+  "id": "2026-09-07-p3",
+  "date": "2026-09-07",
+  "type": "study",
+  "blockId": "pattern-3",
+  "patternNumber": 3,
+  "resourceIds": [
+   "lc-best-time-to-buy-and-sell-stock",
+   "lc-counting-bits"
+  ]
+ },
+ {
+  "id": "2026-09-08-p3",
+  "date": "2026-09-08",
+  "type": "study",
+  "blockId": "pattern-3",
+  "patternNumber": 3,
+  "resourceIds": [
+   "lc-longest-substring-without-repeating-characters",
+   "lc-best-time-to-buy-and-sell-stock"
+  ]
+ },
+ {
+  "id": "2026-09-09-p3",
+  "date": "2026-09-09",
+  "type": "study",
+  "blockId": "pattern-3",
+  "patternNumber": 3,
+  "resourceIds": [
+   "lc-longest-repeating-character-replacement",
+   "lc-longest-substring-without-repeating-characters"
+  ]
+ },
+ {
+  "id": "2026-09-10-p3",
+  "date": "2026-09-10",
+  "type": "study",
+  "blockId": "pattern-3",
+  "patternNumber": 3,
+  "resourceIds": [
+   "lc-permutation-in-string",
+   "lc-longest-repeating-character-replacement"
+  ]
+ },
+ {
+  "id": "2026-09-11-p3",
+  "date": "2026-09-11",
+  "type": "study",
+  "blockId": "pattern-3",
+  "patternNumber": 3,
+  "resourceIds": [
+   "lc-minimum-window-substring",
+   "lc-permutation-in-string"
+  ]
+ },
+ {
+  "id": "2026-09-12-p3",
+  "date": "2026-09-12",
+  "type": "study",
+  "blockId": "pattern-3",
+  "patternNumber": 3,
+  "resourceIds": [
+   "lc-sliding-window-maximum",
+   "lc-longest-substring-without-repeating-characters"
+  ]
+ },
+ {
+  "id": "2026-09-13-p3",
+  "date": "2026-09-13",
+  "type": "study",
+  "blockId": "pattern-3",
+  "patternNumber": 3,
+  "resourceIds": [
+   "lc-minimum-window-substring",
+   "lc-sliding-window-maximum"
+  ]
+ },
+ {
+  "id": "2026-09-14-p4",
+  "date": "2026-09-14",
+  "type": "study",
+  "blockId": "pattern-4",
+  "patternNumber": 4,
+  "resourceIds": [
+   "lc-valid-parentheses",
+   "lc-number-of-1-bits"
+  ]
+ },
+ {
+  "id": "2026-09-15-p4",
+  "date": "2026-09-15",
+  "type": "study",
+  "blockId": "pattern-4",
+  "patternNumber": 4,
+  "resourceIds": [
+   "lc-min-stack",
+   "lc-valid-parentheses"
+  ]
+ },
+ {
+  "id": "2026-09-16-p4",
+  "date": "2026-09-16",
+  "type": "study",
+  "blockId": "pattern-4",
+  "patternNumber": 4,
+  "resourceIds": [
+   "lc-evaluate-reverse-polish-notation",
+   "lc-min-stack"
+  ]
+ },
+ {
+  "id": "2026-09-17-p4",
+  "date": "2026-09-17",
+  "type": "study",
+  "blockId": "pattern-4",
+  "patternNumber": 4,
+  "resourceIds": [
+   "lc-daily-temperatures",
+   "lc-sum-of-two-integers"
+  ]
+ },
+ {
+  "id": "2026-09-18-p4",
+  "date": "2026-09-18",
+  "type": "study",
+  "blockId": "pattern-4",
+  "patternNumber": 4,
+  "resourceIds": [
+   "lc-car-fleet",
+   "lc-daily-temperatures"
+  ]
+ },
+ {
+  "id": "2026-09-19-p4",
+  "date": "2026-09-19",
+  "type": "study",
+  "blockId": "pattern-4",
+  "patternNumber": 4,
+  "resourceIds": [
+   "lc-largest-rectangle-in-histogram",
+   "lc-car-fleet"
+  ]
+ },
+ {
+  "id": "2026-09-20-p4",
+  "date": "2026-09-20",
+  "type": "study",
+  "blockId": "pattern-4",
+  "patternNumber": 4,
+  "resourceIds": [
+   "lc-largest-rectangle-in-histogram",
+   "lc-evaluate-reverse-polish-notation"
+  ]
+ },
+ {
+  "id": "2026-09-21-p5",
+  "date": "2026-09-21",
+  "type": "study",
+  "blockId": "pattern-5",
+  "patternNumber": 5,
+  "resourceIds": [
+   "lc-binary-search",
+   "lc-search-a-2d-matrix"
+  ]
+ },
+ {
+  "id": "2026-09-22-p5",
+  "date": "2026-09-22",
+  "type": "study",
+  "blockId": "pattern-5",
+  "patternNumber": 5,
+  "resourceIds": [
+   "lc-koko-eating-bananas",
+   "lc-binary-search"
+  ]
+ },
+ {
+  "id": "2026-09-23-p5",
+  "date": "2026-09-23",
+  "type": "study",
+  "blockId": "pattern-5",
+  "patternNumber": 5,
+  "resourceIds": [
+   "lc-find-minimum-in-rotated-sorted-array",
+   "lc-search-in-rotated-sorted-array"
+  ]
+ },
+ {
+  "id": "2026-09-24-p5",
+  "date": "2026-09-24",
+  "type": "study",
+  "blockId": "pattern-5",
+  "patternNumber": 5,
+  "resourceIds": [
+   "lc-time-based-key-value-store",
+   "lc-koko-eating-bananas"
+  ]
+ },
+ {
+  "id": "2026-09-25-p5",
+  "date": "2026-09-25",
+  "type": "study",
+  "blockId": "pattern-5",
+  "patternNumber": 5,
+  "resourceIds": [
+   "lc-pow-x-n",
+   "lc-multiply-strings"
+  ]
+ },
+ {
+  "id": "2026-09-26-p5",
+  "date": "2026-09-26",
+  "type": "study",
+  "blockId": "pattern-5",
+  "patternNumber": 5,
+  "resourceIds": [
+   "lc-median-of-two-sorted-arrays",
+   "lc-search-in-rotated-sorted-array"
+  ]
+ },
+ {
+  "id": "2026-09-27-p5",
+  "date": "2026-09-27",
+  "type": "study",
+  "blockId": "pattern-5",
+  "patternNumber": 5,
+  "resourceIds": [
+   "lc-median-of-two-sorted-arrays",
+   "lc-time-based-key-value-store"
+  ]
+ },
+ {
+  "id": "2026-09-28-revision-5",
+  "date": "2026-09-28",
+  "type": "revision",
+  "blockId": "revision-5",
+  "patternNumber": 1,
+  "resourceIds": [
+   "lc-two-sum",
+   "lc-longest-consecutive-sequence"
+  ]
+ },
+ {
+  "id": "2026-09-29-revision-5",
+  "date": "2026-09-29",
+  "type": "revision",
+  "blockId": "revision-5",
+  "patternNumber": 2,
+  "resourceIds": [
+   "lc-3sum",
+   "lc-trapping-rain-water"
+  ]
+ },
+ {
+  "id": "2026-09-30-revision-5",
+  "date": "2026-09-30",
+  "type": "revision",
+  "blockId": "revision-5",
+  "patternNumber": 3,
+  "resourceIds": [
+   "lc-longest-repeating-character-replacement",
+   "lc-minimum-window-substring"
+  ]
+ },
+ {
+  "id": "2026-10-01-revision-5",
+  "date": "2026-10-01",
+  "type": "revision",
+  "blockId": "revision-5",
+  "patternNumber": 4,
+  "resourceIds": [
+   "lc-daily-temperatures",
+   "lc-largest-rectangle-in-histogram"
+  ]
+ },
+ {
+  "id": "2026-10-02-revision-5",
+  "date": "2026-10-02",
+  "type": "revision",
+  "blockId": "revision-5",
+  "patternNumber": 5,
+  "resourceIds": [
+   "lc-koko-eating-bananas",
+   "lc-median-of-two-sorted-arrays"
+  ]
+ },
+ {
+  "id": "2026-10-03-bridge-1",
+  "date": "2026-10-03",
+  "type": "bridge",
+  "blockId": "bridge-1",
+  "patternNumber": null,
+  "resourceIds": [
+   "lc-group-anagrams",
+   "lc-binary-search"
+  ]
+ },
+ {
+  "id": "2026-10-04-bridge-1",
+  "date": "2026-10-04",
+  "type": "bridge",
+  "blockId": "bridge-1",
+  "patternNumber": null,
+  "resourceIds": [
+   "lc-longest-substring-without-repeating-characters",
+   "lc-daily-temperatures"
+  ]
+ },
+ {
+  "id": "2026-10-05-p6",
+  "date": "2026-10-05",
+  "type": "study",
+  "blockId": "pattern-6",
+  "patternNumber": 6,
+  "resourceIds": [
+   "lc-reverse-linked-list",
+   "lc-merge-two-sorted-lists"
+  ]
+ },
+ {
+  "id": "2026-10-06-p6",
+  "date": "2026-10-06",
+  "type": "study",
+  "blockId": "pattern-6",
+  "patternNumber": 6,
+  "resourceIds": [
+   "lc-linked-list-cycle",
+   "lc-remove-nth-node-from-end-of-list"
+  ]
+ },
+ {
+  "id": "2026-10-07-p6",
+  "date": "2026-10-07",
+  "type": "study",
+  "blockId": "pattern-6",
+  "patternNumber": 6,
+  "resourceIds": [
+   "lc-reorder-list",
+   "lc-find-the-duplicate-number"
+  ]
+ },
+ {
+  "id": "2026-10-08-p6",
+  "date": "2026-10-08",
+  "type": "study",
+  "blockId": "pattern-6",
+  "patternNumber": 6,
+  "resourceIds": [
+   "lc-copy-list-with-random-pointer",
+   "lc-add-two-numbers"
+  ]
+ },
+ {
+  "id": "2026-10-09-p6",
+  "date": "2026-10-09",
+  "type": "study",
+  "blockId": "pattern-6",
+  "patternNumber": 6,
+  "resourceIds": [
+   "lc-lru-cache",
+   "lc-reverse-linked-list"
+  ]
+ },
+ {
+  "id": "2026-10-10-p6",
+  "date": "2026-10-10",
+  "type": "study",
+  "blockId": "pattern-6",
+  "patternNumber": 6,
+  "resourceIds": [
+   "lc-merge-k-sorted-lists",
+   "lc-reorder-list"
+  ]
+ },
+ {
+  "id": "2026-10-11-p6",
+  "date": "2026-10-11",
+  "type": "study",
+  "blockId": "pattern-6",
+  "patternNumber": 6,
+  "resourceIds": [
+   "lc-reverse-nodes-in-k-group",
+   "lc-lru-cache"
+  ]
+ },
+ {
+  "id": "2026-10-12-p7",
+  "date": "2026-10-12",
+  "type": "study",
+  "blockId": "pattern-7",
+  "patternNumber": 7,
+  "resourceIds": [
+   "lc-invert-binary-tree",
+   "lc-maximum-depth-of-binary-tree"
+  ]
+ },
+ {
+  "id": "2026-10-13-p7",
+  "date": "2026-10-13",
+  "type": "study",
+  "blockId": "pattern-7",
+  "patternNumber": 7,
+  "resourceIds": [
+   "lc-diameter-of-binary-tree",
+   "lc-balanced-binary-tree"
+  ]
+ },
+ {
+  "id": "2026-10-14-p7",
+  "date": "2026-10-14",
+  "type": "study",
+  "blockId": "pattern-7",
+  "patternNumber": 7,
+  "resourceIds": [
+   "lc-same-tree",
+   "lc-subtree-of-another-tree"
+  ]
+ },
+ {
+  "id": "2026-10-15-p7",
+  "date": "2026-10-15",
+  "type": "study",
+  "blockId": "pattern-7",
+  "patternNumber": 7,
+  "resourceIds": [
+   "lc-binary-tree-level-order-traversal",
+   "lc-binary-tree-right-side-view"
+  ]
+ },
+ {
+  "id": "2026-10-16-p7",
+  "date": "2026-10-16",
+  "type": "study",
+  "blockId": "pattern-7",
+  "patternNumber": 7,
+  "resourceIds": [
+   "lc-maximum-depth-of-binary-tree",
+   "lc-diameter-of-binary-tree"
+  ]
+ },
+ {
+  "id": "2026-10-17-p7",
+  "date": "2026-10-17",
+  "type": "study",
+  "blockId": "pattern-7",
+  "patternNumber": 7,
+  "resourceIds": [
+   "lc-subtree-of-another-tree",
+   "lc-binary-tree-level-order-traversal"
+  ]
+ },
+ {
+  "id": "2026-10-18-p7",
+  "date": "2026-10-18",
+  "type": "study",
+  "blockId": "pattern-7",
+  "patternNumber": 7,
+  "resourceIds": [
+   "lc-same-tree",
+   "lc-binary-tree-right-side-view"
+  ]
+ },
+ {
+  "id": "2026-10-19-p8",
+  "date": "2026-10-19",
+  "type": "study",
+  "blockId": "pattern-8",
+  "patternNumber": 8,
+  "resourceIds": [
+   "lc-lowest-common-ancestor-of-a-binary-search-tree",
+   "lc-count-good-nodes-in-binary-tree"
+  ]
+ },
+ {
+  "id": "2026-10-20-p8",
+  "date": "2026-10-20",
+  "type": "study",
+  "blockId": "pattern-8",
+  "patternNumber": 8,
+  "resourceIds": [
+   "lc-validate-binary-search-tree",
+   "lc-kth-smallest-element-in-a-bst"
+  ]
+ },
+ {
+  "id": "2026-10-21-p8",
+  "date": "2026-10-21",
+  "type": "study",
+  "blockId": "pattern-8",
+  "patternNumber": 8,
+  "resourceIds": [
+   "lc-construct-binary-tree-from-preorder-and-inorder-traversal",
+   "lc-lowest-common-ancestor-of-a-binary-search-tree"
+  ]
+ },
+ {
+  "id": "2026-10-22-p8",
+  "date": "2026-10-22",
+  "type": "study",
+  "blockId": "pattern-8",
+  "patternNumber": 8,
+  "resourceIds": [
+   "lc-count-good-nodes-in-binary-tree",
+   "lc-validate-binary-search-tree"
+  ]
+ },
+ {
+  "id": "2026-10-23-p8",
+  "date": "2026-10-23",
+  "type": "study",
+  "blockId": "pattern-8",
+  "patternNumber": 8,
+  "resourceIds": [
+   "lc-binary-tree-maximum-path-sum",
+   "lc-kth-smallest-element-in-a-bst"
+  ]
+ },
+ {
+  "id": "2026-10-24-p8",
+  "date": "2026-10-24",
+  "type": "study",
+  "blockId": "pattern-8",
+  "patternNumber": 8,
+  "resourceIds": [
+   "lc-serialize-and-deserialize-binary-tree",
+   "lc-construct-binary-tree-from-preorder-and-inorder-traversal"
+  ]
+ },
+ {
+  "id": "2026-10-25-p8",
+  "date": "2026-10-25",
+  "type": "study",
+  "blockId": "pattern-8",
+  "patternNumber": 8,
+  "resourceIds": [
+   "lc-binary-tree-maximum-path-sum",
+   "lc-serialize-and-deserialize-binary-tree"
+  ]
+ }
+]
